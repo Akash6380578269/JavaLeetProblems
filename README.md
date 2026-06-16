@@ -172,7 +172,7 @@ I created this repository to:
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/Akash6380578269
-- LinkedIn: Add your LinkedIn Profile Link
+- LinkedIn: https://www.linkedin.com/in/akash-anbuselvan-a69655337/
 
 ---
 
