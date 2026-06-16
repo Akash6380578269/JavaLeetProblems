@@ -105,6 +105,7 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0027-remove-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0027-remove-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +122,8 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0020-valid-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
