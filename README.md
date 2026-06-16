@@ -113,4 +113,12 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
