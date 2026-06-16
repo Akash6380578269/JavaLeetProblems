@@ -14,9 +14,19 @@
 
 ## 🌟 About This Repository
 
-This repository contains my Java solutions to LeetCode problems and documents my DSA learning journey.
+This repository contains my Java solutions for LeetCode problems.
 
-### 📌 Topics Covered
+I created this repository to:
+
+- Improve problem-solving skills
+- Master Data Structures & Algorithms
+- Prepare for Software Engineering Interviews
+- Track my DSA learning journey
+- Build consistency through daily coding
+
+---
+
+## 📚 Topics Covered
 
 - Arrays
 - Strings
@@ -25,21 +35,21 @@ This repository contains my Java solutions to LeetCode problems and documents my
 - HashSet
 - Stack
 - Queue
+- Binary Search
 - Sorting
 - Two Pointers
-- Binary Search
 - Divide and Conquer
 - Bit Manipulation
 
 ---
 
-## 🎯 Goals
+## 🎯 Current Goals
 
 - Solve 300+ LeetCode Problems
-- Master Data Structures & Algorithms
-- Crack Product-Based Company Interviews
-- Improve Problem Solving Skills
+- Master Trees & Graphs
+- Learn Dynamic Programming
 - Strengthen Java Development Skills
+- Crack Product-Based Company Interviews
 
 ---
 
@@ -57,21 +67,19 @@ This repository contains my Java solutions to LeetCode problems and documents my
 
 ## 🔥 LeetCode Profile
 
-Add your LeetCode profile link here.
+- https://leetcode.com/
+
+(Add your LeetCode profile link)
 
 ---
 
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/Akash6380578269
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: Add your LinkedIn Profile Link
 
 ---
 
-⭐ If you find this repository useful, consider giving it a star.
+### ⭐ If you find this repository useful, consider giving it a star.
 
 <!---LeetCode Topics Start-->
-```
-(Indha line keela irukkura LeetHub generated content-ai touch panna koodadhu)
-```
-<!---LeetCode Topics End-->
