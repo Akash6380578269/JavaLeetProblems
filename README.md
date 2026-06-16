@@ -67,16 +67,16 @@ I created this repository to:
 
 ## 🔥 LeetCode Profile
 
-- https://leetcode.com/
+- [https://leetcode.com/](https://leetcode.com/u/a_ka_sh/)
 
-(Add your LeetCode profile link)
+
 
 ---
 
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/Akash6380578269
-- LinkedIn: Add your LinkedIn Profile Link
+- LinkedIn:(https://www.linkedin.com/in/akash-anbuselvan-a69655337/)
 
 ---
 
@@ -163,9 +163,9 @@ I created this repository to:
 
 ## 🔥 LeetCode Profile
 
-- https://leetcode.com/
+- [https://leetcode.com/](https://leetcode.com/u/a_ka_sh/)
 
-(Add your LeetCode profile link)
+
 
 ---
 
