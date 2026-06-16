@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0504-base-7](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0504-base-7/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0796-rotate-string/) | Easy |
 ## String Matching
@@ -21,4 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0001-two-sum/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0771-jewels-and-stones/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0504-base-7](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0504-base-7/) | Easy |
 <!---LeetCode Topics End-->
