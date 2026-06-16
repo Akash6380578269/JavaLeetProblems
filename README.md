@@ -32,4 +32,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
