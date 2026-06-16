@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0504-base-7/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0796-rotate-string/) | Easy |
@@ -25,5 +26,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0504-base-7/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 <!---LeetCode Topics End-->
