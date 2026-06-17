@@ -98,4 +98,9 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
