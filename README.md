@@ -98,6 +98,7 @@ I created this repository to:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -105,6 +106,7 @@ I created this repository to:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
