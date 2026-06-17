@@ -114,6 +114,7 @@ I created this repository to:
 | [0412-fizz-buzz](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0441-arranging-coins/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +127,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0441-arranging-coins/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
