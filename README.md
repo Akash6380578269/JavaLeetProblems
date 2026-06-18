@@ -86,6 +86,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0162-find-peak-element/) | Medium |
 | [0260-single-number-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -96,12 +97,14 @@ I created this repository to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Linked List
