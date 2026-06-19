@@ -138,6 +138,7 @@ I created this repository to:
 | [0441-arranging-coins](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0441-arranging-coins/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2235-add-two-integers/) | Easy |
@@ -184,6 +185,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0260-single-number-iii/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
