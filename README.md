@@ -85,6 +85,7 @@ I created this repository to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0162-find-peak-element/) | Medium |
@@ -167,6 +168,7 @@ I created this repository to:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0162-find-peak-element/) | Medium |
 | [0441-arranging-coins](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0441-arranging-coins/) | Easy |
@@ -206,6 +208,7 @@ I created this repository to:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
