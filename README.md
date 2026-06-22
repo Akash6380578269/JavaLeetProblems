@@ -152,6 +152,7 @@ I created this repository to:
 | [1822-sign-of-the-product-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2235-add-two-integers/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2652-sum-multiples](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -190,6 +191,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
