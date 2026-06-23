@@ -87,6 +87,7 @@ I created this repository to:
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -211,6 +212,7 @@ I created this repository to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -289,4 +291,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
