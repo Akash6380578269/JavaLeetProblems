@@ -106,6 +106,7 @@ I created this repository to:
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -126,6 +127,7 @@ I created this repository to:
 | [0876-middle-of-the-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ I created this repository to:
 | [1154-day-of-the-year](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1154-day-of-the-year/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2942-find-words-containing-character/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
