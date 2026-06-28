@@ -88,6 +88,7 @@ I created this repository to:
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -133,6 +134,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -293,6 +295,7 @@ I created this repository to:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
@@ -357,6 +360,7 @@ I created this repository to:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Sliding Window
@@ -423,4 +427,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
