@@ -116,6 +116,7 @@ I created this repository to:
 | [1833-maximum-ice-cream-bars](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -171,6 +172,7 @@ I created this repository to:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
