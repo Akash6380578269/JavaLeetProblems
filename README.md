@@ -204,6 +204,7 @@ I created this repository to:
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0441-arranging-coins/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -300,6 +301,7 @@ I created this repository to:
 | ------- | ------- |
 | [0136-single-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0260-single-number-iii/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
