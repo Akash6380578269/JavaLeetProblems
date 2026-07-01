@@ -228,6 +228,7 @@ I created this repository to:
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3024-type-of-triangle/) | Easy |
@@ -411,6 +412,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2843-count-symmetric-integers/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
