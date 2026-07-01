@@ -136,6 +136,7 @@ I created this repository to:
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ I created this repository to:
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3024-type-of-triangle/) | Easy |
+| [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@ I created this repository to:
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
