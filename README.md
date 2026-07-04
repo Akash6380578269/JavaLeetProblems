@@ -212,6 +212,7 @@ I created this repository to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
@@ -318,6 +319,7 @@ I created this repository to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -336,6 +338,7 @@ I created this repository to:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0089-gray-code/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Memoization
