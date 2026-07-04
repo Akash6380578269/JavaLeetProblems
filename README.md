@@ -145,6 +145,7 @@ I created this repository to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
@@ -253,6 +254,7 @@ I created this repository to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -439,6 +441,7 @@ I created this repository to:
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
