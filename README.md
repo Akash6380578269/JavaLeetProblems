@@ -147,6 +147,7 @@ I created this repository to:
 | [3232-find-if-digit-game-can-be-won](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
+| [3895-count-digit-appearances](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -261,6 +262,7 @@ I created this repository to:
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3895-count-digit-appearances](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
