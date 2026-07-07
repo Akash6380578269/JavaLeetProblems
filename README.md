@@ -243,6 +243,7 @@ I created this repository to:
 | [1822-sign-of-the-product-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -289,6 +290,7 @@ I created this repository to:
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
