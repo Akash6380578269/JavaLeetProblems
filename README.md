@@ -106,6 +106,7 @@ I created this repository to:
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0561-array-partition/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0724-find-pivot-index/) | Easy |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
 | [0942-di-string-match](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0942-di-string-match/) | Easy |
@@ -306,6 +307,7 @@ I created this repository to:
 | [0441-arranging-coins](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0441-arranging-coins/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -425,6 +427,7 @@ I created this repository to:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
@@ -512,6 +515,7 @@ I created this repository to:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
