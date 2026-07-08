@@ -247,6 +247,7 @@ I created this repository to:
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -371,6 +372,7 @@ I created this repository to:
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -467,6 +469,7 @@ I created this repository to:
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
