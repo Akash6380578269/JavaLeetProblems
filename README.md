@@ -140,6 +140,7 @@ I created this repository to:
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2942-find-words-containing-character/) | Easy |
@@ -505,6 +506,7 @@ I created this repository to:
 | [1833-maximum-ice-cream-bars](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
