@@ -265,6 +265,7 @@ I created this repository to:
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3895-count-digit-appearances](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
@@ -365,6 +366,7 @@ I created this repository to:
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
