@@ -291,6 +291,7 @@ I created this repository to:
 | [1154-day-of-the-year](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -345,6 +346,7 @@ I created this repository to:
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -440,6 +442,7 @@ I created this repository to:
 | [0387-first-unique-character-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
