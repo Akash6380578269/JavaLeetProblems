@@ -153,6 +153,7 @@ I created this repository to:
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -354,6 +355,7 @@ I created this repository to:
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+| [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
