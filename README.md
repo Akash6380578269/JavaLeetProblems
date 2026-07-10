@@ -306,6 +306,7 @@ I created this repository to:
 | [2942-find-words-containing-character](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2942-find-words-containing-character/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +365,7 @@ I created this repository to:
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
