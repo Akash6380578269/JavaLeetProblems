@@ -546,6 +546,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0177-nth-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0584-find-customer-referee](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0620-not-boring-movies/) | Easy |
