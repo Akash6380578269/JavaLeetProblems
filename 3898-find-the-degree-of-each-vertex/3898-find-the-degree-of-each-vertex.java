@@ -3,12 +3,11 @@ class Solution {
         int n = matrix.length;
         int res[] = new int[n];
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 1 && i < j) {
-                    res[i]++;
-                    res[j]++;
-                }
+            int sum = 0;
+            for (int j = 0; j < matrix[i].length; j++) {
+                sum += matrix[i][j];
             }
+            res[i] = sum;
         }
         return res;
     }
