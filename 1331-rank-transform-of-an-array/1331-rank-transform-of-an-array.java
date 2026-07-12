@@ -1,6 +1,6 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        TreeMap<Integer, Integer> map = new TreeMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         int[] temp = arr.clone();
         Arrays.sort(temp);
