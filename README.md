@@ -117,6 +117,7 @@ I created this repository to:
 | [1089-duplicate-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -203,6 +204,7 @@ I created this repository to:
 | [0977-squares-of-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -358,6 +360,7 @@ I created this repository to:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
