@@ -510,6 +510,7 @@ I created this repository to:
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2843-count-symmetric-integers/) | Easy |
