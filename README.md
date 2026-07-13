@@ -268,6 +268,7 @@ I created this repository to:
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -328,6 +329,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0412-fizz-buzz/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
