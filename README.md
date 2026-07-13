@@ -160,6 +160,7 @@ I created this repository to:
 | [3232-find-if-digit-game-can-be-won](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
@@ -286,6 +287,7 @@ I created this repository to:
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -586,6 +588,7 @@ I created this repository to:
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
