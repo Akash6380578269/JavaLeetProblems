@@ -168,6 +168,7 @@ I created this repository to:
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3895-count-digit-appearances/) | Medium |
