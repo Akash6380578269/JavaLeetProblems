@@ -143,6 +143,7 @@ I created this repository to:
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
@@ -387,6 +388,7 @@ I created this repository to:
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
