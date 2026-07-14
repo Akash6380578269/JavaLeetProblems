@@ -143,6 +143,7 @@ I created this repository to:
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -277,6 +278,7 @@ I created this repository to:
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2235-add-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2427-number-of-common-factors/) | Easy |
@@ -368,6 +370,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2413-smallest-even-multiple](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2427-number-of-common-factors/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -388,6 +391,7 @@ I created this repository to:
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
@@ -489,6 +493,7 @@ I created this repository to:
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Stack
