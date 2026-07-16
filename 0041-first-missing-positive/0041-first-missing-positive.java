@@ -1,19 +1,16 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        Arrays.sort(nums);
-        int expected = 1;
-        for (int num : nums) {
-            if (num < expected) {
-                continue;
+        int n =  nums.length;
+        int map[] = new int[n+1];  
+        for(int x:nums){
+            if(x>0&&x<=n){
+                map[x]=1;
             }
-            if (num == expected) {
-                expected++;
-            }
-            if (num > expected) {
-                return expected;
-            }
-
         }
-        return expected;
+        for(int i=1;i<=n;i++){
+            if(map[i]!=1)return i;
+        }
+       
+       return n+1;
     }
 }
