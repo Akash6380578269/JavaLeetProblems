@@ -118,6 +118,7 @@ I created this repository to:
 | [1051-height-checker](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -347,6 +348,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0412-fizz-buzz/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -526,6 +528,7 @@ I created this repository to:
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Heap (Priority Queue)
