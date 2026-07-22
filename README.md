@@ -667,6 +667,7 @@ I created this repository to:
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
