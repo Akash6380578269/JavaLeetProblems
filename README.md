@@ -156,6 +156,7 @@ I created this repository to:
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
@@ -353,6 +354,7 @@ I created this repository to:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
