@@ -321,6 +321,7 @@ I created this repository to:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0038-count-and-say](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0038-count-and-say/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
