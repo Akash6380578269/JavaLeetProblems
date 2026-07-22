@@ -366,6 +366,7 @@ I created this repository to:
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2716-minimize-string-length](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2716-minimize-string-length/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2810-faulty-keyboard](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2810-faulty-keyboard/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2942-find-words-containing-character/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -383,6 +384,7 @@ I created this repository to:
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2810-faulty-keyboard](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
