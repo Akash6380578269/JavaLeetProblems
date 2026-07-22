@@ -99,6 +99,7 @@ I created this repository to:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0260-single-number-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0260-single-number-iii/) | Medium |
@@ -215,6 +216,7 @@ I created this repository to:
 | [0088-merge-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -589,10 +591,12 @@ I created this repository to:
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
