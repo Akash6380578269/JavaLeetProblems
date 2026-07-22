@@ -346,6 +346,7 @@ I created this repository to:
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2716-minimize-string-length](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2716-minimize-string-length/) | Easy |
@@ -366,6 +367,7 @@ I created this repository to:
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -535,6 +537,7 @@ I created this repository to:
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
