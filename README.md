@@ -369,6 +369,7 @@ I created this repository to:
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2716-minimize-string-length](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2716-minimize-string-length/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2810-faulty-keyboard/) | Easy |
@@ -390,6 +391,7 @@ I created this repository to:
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -569,6 +571,7 @@ I created this repository to:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
