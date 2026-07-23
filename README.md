@@ -119,6 +119,7 @@ I created this repository to:
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
 | [0942-di-string-match](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0942-di-string-match/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -434,6 +435,7 @@ I created this repository to:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -686,6 +688,7 @@ I created this repository to:
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
