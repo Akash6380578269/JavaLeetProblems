@@ -255,6 +255,7 @@ I created this repository to:
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3024-type-of-triangle/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -325,6 +326,7 @@ I created this repository to:
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3516-find-closest-person/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
