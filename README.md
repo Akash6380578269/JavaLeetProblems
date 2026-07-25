@@ -118,6 +118,7 @@ I created this repository to:
 | [0724-find-pivot-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
 | [0942-di-string-match](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0942-di-string-match/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -211,6 +212,7 @@ I created this repository to:
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0942-di-string-match](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1089-duplicate-zeros/) | Easy |
@@ -235,6 +237,7 @@ I created this repository to:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0561-array-partition/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
