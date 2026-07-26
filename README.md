@@ -111,6 +111,7 @@ I created this repository to:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0506-relative-ranks](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0506-relative-ranks/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0561-array-partition/) | Easy |
@@ -239,6 +240,7 @@ I created this repository to:
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0506-relative-ranks](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0506-relative-ranks/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -611,6 +613,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0506-relative-ranks](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0506-relative-ranks/) | Easy |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
