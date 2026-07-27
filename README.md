@@ -161,6 +161,7 @@ I created this repository to:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -262,6 +263,7 @@ I created this repository to:
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -407,6 +409,7 @@ I created this repository to:
 | [1688-count-of-matches-in-tournament](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -466,6 +469,7 @@ I created this repository to:
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2032-two-out-of-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2032-two-out-of-three/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
