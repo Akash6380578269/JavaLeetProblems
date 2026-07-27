@@ -91,6 +91,7 @@ I created this repository to:
 | [0041-first-missing-positive](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
@@ -293,6 +294,7 @@ I created this repository to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0066-plus-one/) | Easy |
 | [0089-gray-code](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
