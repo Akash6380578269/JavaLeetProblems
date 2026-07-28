@@ -400,6 +400,7 @@ I created this repository to:
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3110-score-of-a-string/) | Easy |
+| [3174-clear-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3174-clear-digits/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -418,6 +419,7 @@ I created this repository to:
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
+| [3174-clear-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3174-clear-digits/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
@@ -605,6 +607,7 @@ I created this repository to:
 | [1544-make-the-string-great](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
