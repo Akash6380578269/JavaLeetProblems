@@ -500,6 +500,7 @@ I created this repository to:
 | [2032-two-out-of-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2032-two-out-of-three/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2595-number-of-even-and-odd-bits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
