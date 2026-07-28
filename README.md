@@ -170,6 +170,7 @@ I created this repository to:
 | [2255-count-prefixes-of-a-given-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -477,6 +478,7 @@ I created this repository to:
 | [2215-find-the-difference-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2716-minimize-string-length](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2716-minimize-string-length/) | Easy |
@@ -614,6 +616,7 @@ I created this repository to:
 | [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
