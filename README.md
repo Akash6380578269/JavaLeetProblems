@@ -302,6 +302,7 @@ I created this repository to:
 | [0089-gray-code](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0372-super-pow/) | Medium |
@@ -361,6 +362,7 @@ I created this repository to:
 | [0038-count-and-say](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0038-count-and-say/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
@@ -601,6 +603,7 @@ I created this repository to:
 | [0084-largest-rectangle-in-histogram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
