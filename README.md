@@ -186,6 +186,7 @@ I created this repository to:
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3024-type-of-triangle/) | Easy |
 | [3151-special-array-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3151-special-array-i/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
@@ -484,6 +485,7 @@ I created this repository to:
 | [2716-minimize-string-length](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2716-minimize-string-length/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
