@@ -369,6 +369,7 @@ I created this repository to:
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0412-fizz-buzz/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
@@ -463,6 +464,7 @@ I created this repository to:
 | [0128-longest-consecutive-sequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -620,6 +622,7 @@ I created this repository to:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
