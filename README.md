@@ -338,6 +338,7 @@ I created this repository to:
 | [2843-count-symmetric-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -402,6 +403,7 @@ I created this repository to:
 | [2810-faulty-keyboard](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2810-faulty-keyboard/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2942-find-words-containing-character/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3174-clear-digits/) | Easy |
@@ -699,6 +701,7 @@ I created this repository to:
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
