@@ -760,4 +760,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
