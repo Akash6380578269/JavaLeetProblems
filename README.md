@@ -144,6 +144,7 @@ I created this repository to:
 | [1550-three-consecutive-odds](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -385,6 +386,7 @@ I created this repository to:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1859-sorting-the-sentence/) | Easy |
