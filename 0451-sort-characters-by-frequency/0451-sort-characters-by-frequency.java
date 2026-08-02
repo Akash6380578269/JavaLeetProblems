@@ -1,23 +1,30 @@
+import java.util.*;
+
 class Solution {
     public String frequencySort(String s) {
-        int freq[] = new int[128];
-        for (char c : s.toCharArray()) {
-            freq[c]++;
-        }
-        List<Character> list = new ArrayList<>();
-        for (int i = 0; i < 128; i++) {
-            if (freq[i] > 0) {
-                list.add((char) i);
-            }
-        }
-        list.sort((a, b) -> freq[b] - freq[a]);
-        StringBuilder sb = new StringBuilder();
-        for (char c : list) {
-            for (int i = 0; i < freq[c]; i++) {
-                sb.append(c);
-            }
-        }
-        return sb.toString();
 
+        Map<Character, Integer> map = new HashMap<>();
+
+        // Count frequency
+        for (char c : s.toCharArray()) {
+            map.put(c, map.getOrDefault(c, 0) + 1);
+        }
+
+        // Convert to list
+        List<Map.Entry<Character, Integer>> list =
+                new ArrayList<>(map.entrySet());
+
+        // Sort by frequency descending
+        list.sort((a, b) -> b.getValue() - a.getValue());
+
+        StringBuilder ans = new StringBuilder();
+
+        for (Map.Entry<Character, Integer> entry : list) {
+            for (int i = 0; i < entry.getValue(); i++) {
+                ans.append(entry.getKey());
+            }
+        }
+
+        return ans.toString();
     }
 }
