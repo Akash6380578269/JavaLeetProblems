@@ -97,6 +97,7 @@ I created this repository to:
 | [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0136-single-number/) | Easy |
@@ -526,6 +527,7 @@ I created this repository to:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
