@@ -124,6 +124,7 @@ I created this repository to:
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0942-di-string-match](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0942-di-string-match/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -537,6 +538,7 @@ I created this repository to:
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -559,6 +561,7 @@ I created this repository to:
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0372-super-pow](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0372-super-pow/) | Medium |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -687,6 +690,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -776,4 +780,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0195-tenth-line/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
