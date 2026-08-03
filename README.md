@@ -396,6 +396,7 @@ I created this repository to:
 | [1816-truncate-sentence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1881-maximum-value-after-insertion](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1881-maximum-value-after-insertion/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -722,6 +723,7 @@ I created this repository to:
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1881-maximum-value-after-insertion](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1881-maximum-value-after-insertion/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
