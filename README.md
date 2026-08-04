@@ -113,6 +113,7 @@ I created this repository to:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0506-relative-ranks/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -629,6 +630,7 @@ I created this repository to:
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -740,6 +742,7 @@ I created this repository to:
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Database
