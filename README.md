@@ -421,6 +421,7 @@ I created this repository to:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3110-score-of-a-string/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3174-clear-digits/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Simulation
@@ -507,6 +508,7 @@ I created this repository to:
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
