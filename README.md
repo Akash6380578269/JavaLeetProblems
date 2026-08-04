@@ -383,6 +383,7 @@ I created this repository to:
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0942-di-string-match/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -633,6 +634,7 @@ I created this repository to:
 | [0503-next-greater-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1544-make-the-string-great/) | Easy |
@@ -719,6 +721,7 @@ I created this repository to:
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0561-array-partition](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0561-array-partition/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0942-di-string-match/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -789,4 +792,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
