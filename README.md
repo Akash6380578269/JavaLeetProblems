@@ -189,6 +189,7 @@ I created this repository to:
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3024-type-of-triangle/) | Easy |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3151-special-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
