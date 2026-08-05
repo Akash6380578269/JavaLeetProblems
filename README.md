@@ -367,6 +367,7 @@ I created this repository to:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0038-count-and-say/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0165-compare-version-numbers/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -536,6 +537,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -626,6 +628,7 @@ I created this repository to:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
@@ -799,6 +802,7 @@ I created this repository to:
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
