@@ -352,6 +352,7 @@ I created this repository to:
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3516-find-closest-person/) | Easy |
@@ -693,6 +694,7 @@ I created this repository to:
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2951-find-the-peaks](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2951-find-the-peaks/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
