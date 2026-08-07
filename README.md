@@ -772,6 +772,7 @@ I created this repository to:
 | [0584-find-customer-referee](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1075-project-employees-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
