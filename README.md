@@ -309,6 +309,7 @@ I created this repository to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0066-plus-one/) | Easy |
 | [0089-gray-code](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -371,6 +372,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0038-count-and-say/) | Medium |
@@ -480,6 +482,7 @@ I created this repository to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
 | [0041-first-missing-positive](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
