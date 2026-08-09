@@ -346,6 +346,7 @@ I created this repository to:
 | [2413-smallest-even-multiple](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2582-pass-the-pillow](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2582-pass-the-pillow/) | Easy |
 | [2652-sum-multiples](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2843-count-symmetric-integers/) | Easy |
@@ -447,6 +448,7 @@ I created this repository to:
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2582-pass-the-pillow](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2582-pass-the-pillow/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2974-minimum-number-game/) | Easy |
