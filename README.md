@@ -198,6 +198,7 @@ I created this repository to:
 | [3232-find-if-digit-game-can-be-won](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -521,6 +522,7 @@ I created this repository to:
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
