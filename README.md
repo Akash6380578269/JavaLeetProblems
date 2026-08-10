@@ -137,6 +137,7 @@ I created this repository to:
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -329,6 +330,7 @@ I created this repository to:
 | [1154-day-of-the-year](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1154-day-of-the-year/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
