@@ -421,6 +421,7 @@ I created this repository to:
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
