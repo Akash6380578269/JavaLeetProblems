@@ -86,6 +86,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0041-first-missing-positive/) | Hard |
@@ -377,6 +378,7 @@ I created this repository to:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0038-count-and-say/) | Medium |
@@ -824,4 +826,8 @@ I created this repository to:
 | [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
