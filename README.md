@@ -244,6 +244,7 @@ I created this repository to:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,6 +444,7 @@ I created this repository to:
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3174-clear-digits/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
