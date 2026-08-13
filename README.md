@@ -175,6 +175,7 @@ I created this repository to:
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2418-sort-the-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -347,6 +348,7 @@ I created this repository to:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2427-number-of-common-factors/) | Easy |
@@ -454,6 +456,7 @@ I created this repository to:
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2582-pass-the-pillow](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2582-pass-the-pillow/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -486,6 +489,7 @@ I created this repository to:
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2427-number-of-common-factors/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -707,6 +711,7 @@ I created this repository to:
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
