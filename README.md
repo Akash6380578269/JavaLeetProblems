@@ -210,6 +210,7 @@ I created this repository to:
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -562,6 +563,7 @@ I created this repository to:
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
