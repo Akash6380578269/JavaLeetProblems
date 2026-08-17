@@ -845,6 +845,7 @@ I created this repository to:
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0194-transpose-file](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0194-transpose-file/) | Medium |
 | [0195-tenth-line](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0195-tenth-line/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
