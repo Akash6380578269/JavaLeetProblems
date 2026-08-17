@@ -150,6 +150,7 @@ I created this repository to:
 | [1480-running-sum-of-1d-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -345,6 +346,7 @@ I created this repository to:
 | [1486-xor-operation-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -585,6 +587,7 @@ I created this repository to:
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -837,6 +840,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
+| [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
