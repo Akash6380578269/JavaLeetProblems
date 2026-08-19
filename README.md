@@ -234,6 +234,7 @@ I created this repository to:
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -410,6 +411,7 @@ I created this repository to:
 | [0451-sort-characters-by-frequency](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0856-score-of-parentheses/) | Medium |
@@ -524,6 +526,7 @@ I created this repository to:
 | [0451-sort-characters-by-frequency](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -700,6 +703,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
