@@ -111,6 +111,7 @@ I created this repository to:
 | [0169-majority-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0229-majority-element-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -497,6 +498,7 @@ I created this repository to:
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0441-arranging-coins/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -622,6 +624,7 @@ I created this repository to:
 | [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0372-super-pow](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0372-super-pow/) | Medium |
 | [0912-sort-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -724,6 +727,7 @@ I created this repository to:
 | [0037-sudoku-solver](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
