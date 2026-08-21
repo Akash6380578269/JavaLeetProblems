@@ -116,6 +116,7 @@ I created this repository to:
 | [0347-top-k-frequent-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0456-132-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0456-132-pattern/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -503,6 +504,7 @@ I created this repository to:
 | [0240-search-a-2d-matrix-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0441-arranging-coins/) | Easy |
+| [0456-132-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0456-132-pattern/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -703,6 +705,7 @@ I created this repository to:
 | [0227-basic-calculator-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
@@ -829,6 +832,7 @@ I created this repository to:
 | [0084-largest-rectangle-in-histogram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
@@ -916,4 +920,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0037-sudoku-solver/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
