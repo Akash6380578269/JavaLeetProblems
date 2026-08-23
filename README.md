@@ -365,6 +365,7 @@ I created this repository to:
 | [1822-sign-of-the-product-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1927-sum-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -443,6 +444,7 @@ I created this repository to:
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1881-maximum-value-after-insertion](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1881-maximum-value-after-insertion/) | Medium |
+| [1927-sum-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1927-sum-game/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -817,6 +819,7 @@ I created this repository to:
 | [1833-maximum-ice-cream-bars](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1881-maximum-value-after-insertion](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1881-maximum-value-after-insertion/) | Medium |
+| [1927-sum-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -873,6 +876,7 @@ I created this repository to:
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
