@@ -165,6 +165,7 @@ I created this repository to:
 | [1833-maximum-ice-cream-bars](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1872-stone-game-viii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -365,6 +366,7 @@ I created this repository to:
 | [1822-sign-of-the-product-of-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1872-stone-game-viii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
@@ -613,6 +615,7 @@ I created this repository to:
 | [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1872-stone-game-viii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -865,6 +868,7 @@ I created this repository to:
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1872-stone-game-viii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Graph Theory
@@ -876,6 +880,7 @@ I created this repository to:
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
 ## Union-Find
@@ -908,6 +913,7 @@ I created this repository to:
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -916,6 +922,7 @@ I created this repository to:
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
