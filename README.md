@@ -474,6 +474,7 @@ I created this repository to:
 | [3110-score-of-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3174-clear-digits/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Simulation
@@ -579,6 +580,7 @@ I created this repository to:
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3945-digit-frequency-score/) | Easy |
@@ -701,6 +703,7 @@ I created this repository to:
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -779,6 +782,7 @@ I created this repository to:
 | [2843-count-symmetric-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2951-find-the-peaks](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -830,6 +834,7 @@ I created this repository to:
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
