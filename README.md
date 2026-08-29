@@ -860,6 +860,7 @@ I created this repository to:
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0177-nth-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0584-find-customer-referee](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0584-find-customer-referee/) | Easy |
