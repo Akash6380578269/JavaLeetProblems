@@ -409,6 +409,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0014-longest-common-prefix/) | Easy |
