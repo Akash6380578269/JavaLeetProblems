@@ -323,6 +323,7 @@ I created this repository to:
 | [0237-delete-node-in-a-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
