@@ -219,6 +219,7 @@ I created this repository to:
 | [3467-transform-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -584,6 +585,7 @@ I created this repository to:
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -607,6 +609,7 @@ I created this repository to:
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -679,6 +682,7 @@ I created this repository to:
 | [0102-binary-tree-level-order-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0226-invert-binary-tree/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -757,6 +761,7 @@ I created this repository to:
 | [1260-shift-2d-grid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
