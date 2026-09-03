@@ -92,6 +92,7 @@ I created this repository to:
 | [0037-sudoku-solver](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -340,6 +341,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
+| [0048-rotate-image](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0066-plus-one/) | Easy |
 | [0089-gray-code](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -759,6 +761,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0085-maximal-rectangle/) | Hard |
