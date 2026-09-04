@@ -231,6 +231,7 @@ I created this repository to:
 | [3875-construct-uniform-parity-array-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -902,6 +903,7 @@ I created this repository to:
 | [1872-stone-game-viii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
