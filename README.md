@@ -245,6 +245,7 @@ I created this repository to:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -323,6 +324,7 @@ I created this repository to:
 | [0024-swap-nodes-in-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -556,6 +558,7 @@ I created this repository to:
 | [0041-first-missing-positive](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -976,4 +979,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0456-132-pattern/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
