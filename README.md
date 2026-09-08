@@ -357,6 +357,7 @@ I created this repository to:
 | [0172-factorial-trailing-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0224-basic-calculator](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0343-integer-break](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0372-super-pow/) | Medium |
@@ -638,6 +639,7 @@ I created this repository to:
 | [0119-pascals-triangle-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0343-integer-break](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
