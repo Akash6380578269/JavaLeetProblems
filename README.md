@@ -411,6 +411,7 @@ I created this repository to:
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3870-count-commas-in-range](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3945-digit-frequency-score/) | Easy |
