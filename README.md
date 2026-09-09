@@ -249,6 +249,7 @@ I created this repository to:
 | [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -330,6 +331,7 @@ I created this repository to:
 | [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -344,6 +346,7 @@ I created this repository to:
 | [0203-remove-linked-list-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -745,6 +748,7 @@ I created this repository to:
 | [0145-binary-tree-postorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0456-132-pattern/) | Medium |
