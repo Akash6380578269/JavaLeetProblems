@@ -133,6 +133,7 @@ I created this repository to:
 | [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -652,6 +653,7 @@ I created this repository to:
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
