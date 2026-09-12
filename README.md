@@ -165,6 +165,7 @@ I created this repository to:
 | [1563-stone-game-v](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1816-truncate-sentence/) | Easy |
@@ -473,6 +474,7 @@ I created this repository to:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -592,6 +594,7 @@ I created this repository to:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2032-two-out-of-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2032-two-out-of-three/) | Easy |
@@ -631,6 +634,7 @@ I created this repository to:
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2032-two-out-of-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2032-two-out-of-three/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -742,6 +746,7 @@ I created this repository to:
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2029-stone-game-ix/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
