@@ -135,6 +135,7 @@ I created this repository to:
 | [0724-find-pivot-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0835-image-overlap](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -804,6 +805,7 @@ I created this repository to:
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0835-image-overlap](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
