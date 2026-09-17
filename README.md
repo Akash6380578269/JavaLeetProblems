@@ -85,6 +85,7 @@ I created this repository to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0014-longest-common-prefix/) | Easy |
@@ -575,6 +576,7 @@ I created this repository to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
 | [0037-sudoku-solver](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0041-first-missing-positive/) | Hard |
