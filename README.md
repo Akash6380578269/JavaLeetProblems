@@ -334,6 +334,7 @@ I created this repository to:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -353,6 +354,7 @@ I created this repository to:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -363,6 +365,7 @@ I created this repository to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0066-plus-one/) | Easy |
