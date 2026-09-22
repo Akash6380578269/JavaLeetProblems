@@ -95,6 +95,7 @@ I created this repository to:
 | [0041-first-missing-positive](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0048-rotate-image/) | Medium |
+| [0055-jump-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -666,6 +667,7 @@ I created this repository to:
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -899,6 +901,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0055-jump-game/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
