@@ -25,7 +25,7 @@ class Solution {
 
         }
 
-        return (int) (num * sign);
+        return (int) (num*sign);
 
     }
 }
