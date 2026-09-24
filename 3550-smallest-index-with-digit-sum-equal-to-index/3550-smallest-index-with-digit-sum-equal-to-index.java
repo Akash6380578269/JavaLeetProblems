@@ -12,8 +12,8 @@ class Solution {
                 n /= 10;
             }
             if (sum == i) {
-            
-            min = Math.min(min, i);
+
+                min = Math.min(min, i);
             }
 
         }
