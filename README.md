@@ -490,6 +490,7 @@ I created this repository to:
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -807,6 +808,7 @@ I created this repository to:
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3174-clear-digits/) | Easy |
@@ -1010,6 +1012,7 @@ I created this repository to:
 | [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
