@@ -1,9 +1,9 @@
 class Solution {
+
     public String removeKdigits(String num, int k) {
-        if (num.length() ==  k ) {
+        if (num.length() == k) {
             return "0";
         }
-        
         Stack<Character> st = new Stack<>();
         for (int i = 0; i < num.length(); i++) {
             char c = num.charAt(i);
@@ -15,17 +15,15 @@ class Solution {
         }
         while (k > 0) {
             st.pop();
-            k--;
         }
         StringBuilder sb = new StringBuilder();
-        while (!st.isEmpty()) {
+         while(!st.isEmpty()){
             sb.append(st.pop());
-        }
-        sb.reverse();
-        while (sb.length() > 1 && sb.charAt(0) == '0') {
+         }
+         sb.reverse();
+         while (sb.length() > 1 && sb.charAt(0)=='0'){
             sb.deleteCharAt(0);
-        }
-        return sb.toString();
-
+         }
+         return sb.toString();
     }
 }
