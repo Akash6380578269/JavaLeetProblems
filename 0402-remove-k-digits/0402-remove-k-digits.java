@@ -15,6 +15,7 @@ class Solution {
         }
         while (k > 0) {
             st.pop();
+            k--;
         }
         StringBuilder sb = new StringBuilder();
          while(!st.isEmpty()){
