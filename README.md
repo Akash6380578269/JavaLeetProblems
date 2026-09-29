@@ -466,6 +466,7 @@ I created this repository to:
 | [0205-isomorphic-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0290-word-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0290-word-pattern/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0392-is-subsequence/) | Easy |
@@ -602,6 +603,7 @@ I created this repository to:
 | [0169-majority-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0229-majority-element-ii/) | Medium |
+| [0290-word-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
