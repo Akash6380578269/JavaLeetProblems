@@ -125,6 +125,7 @@ I created this repository to:
 | [0435-non-overlapping-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0454-4sum-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0454-4sum-ii/) | Medium |
 | [0456-132-pattern](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0456-132-pattern/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -611,6 +612,7 @@ I created this repository to:
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0454-4sum-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
