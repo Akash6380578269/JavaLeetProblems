@@ -496,6 +496,7 @@ I created this repository to:
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -834,6 +835,7 @@ I created this repository to:
 | [0904-fruit-into-baskets](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
