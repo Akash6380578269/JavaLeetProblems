@@ -274,6 +274,7 @@ I created this repository to:
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
+| [0763-partition-labels](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -487,6 +488,7 @@ I created this repository to:
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0647-palindromic-substrings/) | Medium |
+| [0763-partition-labels](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -625,6 +627,7 @@ I created this repository to:
 | [0532-k-diff-pairs-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -936,6 +939,7 @@ I created this repository to:
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0561-array-partition](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0561-array-partition/) | Easy |
+| [0763-partition-labels](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0942-di-string-match/) | Easy |
