@@ -1081,4 +1081,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0881-boats-to-save-people/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
