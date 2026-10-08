@@ -382,6 +382,7 @@ I created this repository to:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
+| [0043-multiply-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0066-plus-one/) | Easy |
 | [0089-gray-code](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0089-gray-code/) | Medium |
@@ -469,6 +470,7 @@ I created this repository to:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0115-distinct-subsequences/) | Hard |
@@ -552,6 +554,7 @@ I created this repository to:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0867-transpose-matrix/) | Easy |
