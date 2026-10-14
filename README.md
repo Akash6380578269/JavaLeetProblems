@@ -453,6 +453,7 @@ I created this repository to:
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -980,6 +981,7 @@ I created this repository to:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
