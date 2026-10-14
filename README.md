@@ -463,6 +463,7 @@ I created this repository to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0008-string-to-integer-atoi/) | Medium |
@@ -616,6 +617,7 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0012-integer-to-roman/) | Medium |
 | [0037-sudoku-solver](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0041-first-missing-positive/) | Hard |
@@ -854,6 +856,7 @@ I created this repository to:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
