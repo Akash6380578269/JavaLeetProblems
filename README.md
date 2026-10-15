@@ -701,6 +701,7 @@ I created this repository to:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2032-two-out-of-three](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2032-two-out-of-three/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
