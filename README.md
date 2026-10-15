@@ -693,6 +693,7 @@ I created this repository to:
 | [0136-single-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0461-hamming-distance](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0461-hamming-distance/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1486-xor-operation-in-an-array/) | Easy |
