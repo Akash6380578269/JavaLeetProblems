@@ -116,6 +116,7 @@ I created this repository to:
 | [0164-maximum-gap](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0229-majority-element-ii/) | Medium |
@@ -306,6 +307,7 @@ I created this repository to:
 | [0148-sort-list](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -482,6 +484,7 @@ I created this repository to:
 | [0165-compare-version-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0165-compare-version-numbers/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0179-largest-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -971,6 +974,7 @@ I created this repository to:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0055-jump-game/) | Medium |
+| [0179-largest-number](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
