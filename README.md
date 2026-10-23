@@ -779,6 +779,7 @@ I created this repository to:
 | [0144-binary-tree-preorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -809,6 +810,7 @@ I created this repository to:
 | [0144-binary-tree-preorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1161,4 +1163,8 @@ I created this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
