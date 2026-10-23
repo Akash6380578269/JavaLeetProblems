@@ -103,6 +103,7 @@ I created this repository to:
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -594,6 +595,7 @@ I created this repository to:
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
