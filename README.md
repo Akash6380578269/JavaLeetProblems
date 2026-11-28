@@ -140,6 +140,7 @@ I created this repository to:
 | [0560-subarray-sum-equals-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
@@ -568,6 +569,7 @@ I created this repository to:
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0412-fizz-buzz/) | Easy |
+| [0682-baseball-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -859,6 +861,7 @@ I created this repository to:
 | [0496-next-greater-element-i](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0682-baseball-game](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akash6380578269/JavaLeetProblems/tree/main/0856-score-of-parentheses/) | Medium |
